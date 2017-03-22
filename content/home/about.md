@@ -14,7 +14,7 @@ weight = 1
   interests = [
     "Data Science",
     "Machine Learning",
-    "Natural Language Processing"
+    "Programming in R and Python"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -31,6 +31,5 @@ weight = 1
 
 +++
 
-# Biography
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+# Hi,
+I'm Kelly and this is where to find my internet stuff. I co-organize the Washington DC chapter of R-Ladies Global. It's an R users group for lady-folk and friends. Check out our [Meetup page](https://www.meetup.com/rladies-dc/) for the latest news and events. Check us out on Twitter (at)[RLadiesDC](https://twitter.com/RLadiesDC).
