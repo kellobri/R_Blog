@@ -150,18 +150,18 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "External Blogging"
-  url = "#publications_selected"
-  weight = 2
-
-[[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Tutorials"
   url = "#tutorials"
+  weight = 3
+
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
   weight = 4
 
 [[menu.main]]
