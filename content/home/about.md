@@ -32,4 +32,4 @@ weight = 1
 +++
 
 # Hi,
-I'm Kelly and this is where to find my internet stuff. I co-organize the Washington DC chapter of R-Ladies Global. It's an R users group for lady-folk and friends. Check out our [Meetup page](https://www.meetup.com/rladies-dc/) for the latest news and events. Check us out on Twitter (at)[RLadiesDC](https://twitter.com/RLadiesDC).
+I'm Kelly and this is where to find my internet stuff. I'm a co-organizer of the Washington DC chapter of R-Ladies Global. It's an R users group for lady-folk and friends. Check out our [Meetup page](https://www.meetup.com/rladies-dc/) for the latest news and events. We're also on Twitter (at) [RLadiesDC](https://twitter.com/RLadiesDC).
