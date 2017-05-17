@@ -1,6 +1,6 @@
 baseurl = "https://kellobri.github.io"
-title = "Kelly's.R.Blog"
-copyright = "&copy; 2016 Kelly"
+title = "Kelly's R Blog"
+copyright = "&copy; 2017 Kelly"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"

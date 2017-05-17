@@ -12,7 +12,7 @@ math = false
 
 url_pdf = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=WgIGM6yn3HA"
 
 # Optional featured image (relative to `static/img/` folder).
 #[header]
