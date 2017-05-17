@@ -7,4 +7,4 @@ categories: []
 tags: []
 ---
 
-First Post
+I'm currently in the process of migrating or linking to my blogs from other locations - stay tuned!
