@@ -17,3 +17,4 @@ weight = 60
 ## R-Ladies Washington DC Event Tutorials:
 - **Rise & Shiny [1]** Semantic UI in Shiny Apps and on Shiny Servers
 - **Open Data Day Mini-Hack** Easy web scraping in R with the rvest package
+- **Personal Website Workshop** R Blogdown + Github
