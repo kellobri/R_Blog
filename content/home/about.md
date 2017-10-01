@@ -32,4 +32,4 @@ weight = 1
 +++
 
 # Hi,
-I'm Kelly and this is the blog-extension of my Github account. Here I keep a record of my blogs, speaking engagements and external projects. I'm a co-organizer of the Washington DC chapter of R-Ladies Global. It's an R users group for lady-folk and friends. Check out our [Meetup page](https://www.meetup.com/rladies-dc/) for the latest news and events. We're also on Twitter (at) [RLadiesDC](https://twitter.com/RLadiesDC).
+I'm Kelly and this is the blog-extension of my GitHub account. Here I keep a record of my blogs, speaking engagements and external projects. I'm an organizer of the Washington DC chapter of R-Ladies Global. It's an R users group for lady-folk and friends. Check out our [Meetup](https://www.meetup.com/rladies-dc/) page for the latest news and events. We're also on [Twitter](https://twitter.com/RLadiesDC).
