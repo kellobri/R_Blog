@@ -18,8 +18,8 @@ tags:
 
 I have a new blog up on the B23 Medium account -- Check it out: [Experimenting with Chromebook Data Science in the Cloud](https://medium.com/@b23llc/experimenting-with-chromebook-data-science-in-the-cloud-2bd84a68b934)
 
-#### B23 Info
+----
 
-- [Medium Blow](https://medium.com/@b23llc)
+- [Medium](https://medium.com/@b23llc)
 - [Twitter](https://twitter.com/b23llc)
 - [B23 Data Platform](https://platform.b23.io/)
