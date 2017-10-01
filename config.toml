@@ -1,5 +1,5 @@
 baseurl = "https://kellobri.github.io"
-title = "Kelly's R Blog"
+title = "Kelly O'Briant"
 copyright = "&copy; 2017 Kelly"
 theme = "hugo-academic"
 enableEmoji = true
@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Kelly O"
+  name = "Kelly"
   role = "Data Scientist - B23 LLC"
   organization = "R-Ladies Washington DC"
   organization_url = ""
