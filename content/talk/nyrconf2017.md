@@ -21,4 +21,4 @@ url_video = "https://www.youtube.com/watch?v=WgIGM6yn3HA"
 
 +++
 
-Slides and video will be available after the event.
+[Video now available on YouTube](https://www.youtube.com/watch?v=WgIGM6yn3HA)
