@@ -14,6 +14,10 @@ weight = 60
 
 +++
 
+## O'Reilly Media
+- **[Introduction to Sparklyr for Data Science](https://www.safaribooksonline.com/library/view/introduction-to-sparklyr/9781491996508/)**
+  - Web Video Tutorial, Published: September 2017
+
 ## R-Ladies Washington DC Event Tutorials:
 - **Rise & Shiny [1]** Semantic UI in Shiny Apps and on Shiny Servers
 - **Open Data Day Mini-Hack** [Easy web scraping in R with the rvest package](https://github.com/rladies/meetup-presentations_dc/tree/master/OpenDataMiniHack-2017)
