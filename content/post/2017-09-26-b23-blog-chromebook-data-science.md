@@ -14,7 +14,7 @@ tags:
   - cloud
 ---
 
-# Experimenting with Chromebook Data Science in the Cloud
+## Experimenting with Chromebook Data Science in the Cloud
 
 I have a new blog up on the B23 Medium account -- Check it out: [Experimenting with Chromebook Data Science in the Cloud](https://medium.com/@b23llc/experimenting-with-chromebook-data-science-in-the-cloud-2bd84a68b934)
 
