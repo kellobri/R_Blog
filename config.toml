@@ -4,7 +4,7 @@ copyright = "&copy; 2017 Kelly"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-publishDir = "/Users/kellyo/Github-Kelly/GithubIO/kellobri.github.io"
+publishDir = "/Users/kellyo/Github-Kelly/kellobri_github_io/kellobri.github.io"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
