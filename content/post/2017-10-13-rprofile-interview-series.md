@@ -1,22 +1,19 @@
----
-title: .rprofile Interview Series
-author: Kelly O
-date: '2017-10-13'
-slug: rprofile-interview-series
-categories:
-  - R
-  - community
-tags:
-  - ropensci
-  - interview
-  - rstats
----
++++
+date = "2017-10-13"
+draft = false
+tags = ["ropensci", "interview", "rstats"]
+title = ".rprofile Interview Series"
+math = true
+summary = """
+Over the next several months I'll be teaming up with the rOpenSci blog to release a series of cool #rstats community interviews. Check out the first one which went live today!
+"""
++++
 
 ## .rprofile: David Smith
 
 Over the next several months I'll be teaming up with the [rOpenSci](https://ropensci.org/) blog to release a series of cool `#rstats` community interviews. Check out the first one which went live today! 
 
-- [.rprofile: David Smith](https://ropensci.org/blog/blog/2017/10/13/rprofile-david-smith)
+[**.rprofile: David Smith**](https://ropensci.org/blog/blog/2017/10/13/rprofile-david-smith)
 
 ----
 
