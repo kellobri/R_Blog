@@ -25,3 +25,4 @@ weight = 60
 - **Rise & Shiny [2]** Introduction to Shiny Application Development
 - **R-Ladies Fall Networking** [Competition Crossword Puzzle!](https://github.com/rladies/meetup-presentations_dc/tree/master/NetworkingCrosswordPuzzle-2017)
 - **Rise & Shiny [3]** Interactive Maps with Shiny and Leaflet
+- **Rise & Shiny [4]** [Shiny Google Sheets Integration](https://github.com/rladies/meetup-presentations_dc/tree/master/RiseAndShiny/January2018)
