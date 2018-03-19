@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Kelly"
-  role = "Data Scientist - B23 LLC"
+  role = "Data Science Product Engineer"
   organization = "R-Ladies Washington DC"
   organization_url = ""
   avatar = "kellyIMG.jpg"
@@ -136,7 +136,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/b23kelly"
+    link = "//twitter.com/kellrstats"
 
   [[params.social]]
     icon = "github"
