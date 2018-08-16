@@ -14,7 +14,8 @@ weight = 1
   interests = [
     "Data Science",
     "Cloud Computing",
-    "Programming in R and Python"
+    "Dev/DataOps",
+    "R, Python, Ansible <3"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,4 +33,6 @@ weight = 1
 +++
 
 # Hi,
-I'm Kelly and this is the blog-extension of my GitHub account. Here I keep a record of my blogs, speaking engagements and external projects. I'm an organizer of the Washington DC chapter of R-Ladies Global. It's an R users group for lady-folk and friends. Check out our [Meetup](https://www.meetup.com/rladies-dc/) page for the latest news and events. We're also on [Twitter](https://twitter.com/RLadiesDC).
+I'm Kelly and this is the blog-extension of my GitHub account. Here I keep a record of my blogs, speaking engagements and external projects.
+
+I am an organizer of the Washington DC chapter of R-Ladies Global. It's an R users group for lady-folk and friends. Check out our [Meetup](https://www.meetup.com/rladies-dc/) page for the latest news and events. We're also on [Twitter](https://twitter.com/RLadiesDC).
