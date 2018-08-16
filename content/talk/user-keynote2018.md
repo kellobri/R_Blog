@@ -1,18 +1,18 @@
 +++
-date = "2018-03-15T00:00:00"
-title = "DataOps: Data Science Empowerment through DevOps, Cloud Computing and Building your own Applications"
+date = "2018-07-11T00:00:00"
+title = "RStudio 2018 - Who we are and what we do"
 abstract = ""
 abstract_short = ""
-event = "Women in Analytics Conference"
+event = "UseR! 2018"
 event_url = "https://www.womeninanalytics.org/"
-location = "Columbus, OH"
+location = "Brisbane, Australia"
   
 selected = true
 math = false
   
 url_pdf = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=bB6CnGMapS0"
+url_video = "https://www.youtube.com/watch?v=m1yYu-MmgJw&t=4s"
   
 # Optional featured image (relative to `static/img/` folder).
 #[header]
@@ -20,6 +20,3 @@ url_video = "https://www.youtube.com/watch?v=bB6CnGMapS0"
 #caption = "My caption :smile:"
   
 +++
-  
-
-  
