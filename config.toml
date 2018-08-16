@@ -5,7 +5,7 @@ copyright = "&copy; 2018 Kelly"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-publishDir = "/Users/kellyo/PersonalBlog/kellobri.github.io"
+publishDir = "/Users/kelly/Blogdown/kellobri.github.io"
 paginatePath = "posts"
 
 # Enable comments by entering your Disqus shortname
